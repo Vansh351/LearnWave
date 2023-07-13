@@ -26,7 +26,8 @@ app.use(
 		origin:["https://learn-wave-frontend-9q2iurjhc-vansh351.vercel.app",
 		        "https://learn-wave-frontend.vercel.app/","https://vercel.live/link/learn-wave-frontend-git-main-vansh351.vercel.app?via=deployment-domains-list-branch",
 			"https://vercel.live/link/learn-wave-frontend-oxtd8f53g-vansh351.vercel.app?via=deployment-domains-list-commit",
-		         "https://vercel.live/link/learn-wave-frontend-git-main-vansh351.vercel.app?via=deployment-domains-list-branch"],
+		         "https://vercel.live/link/learn-wave-frontend-git-main-vansh351.vercel.app?via=deployment-domains-list-branch",
+		       "https://learn-wave-frontend.vercel.app/", "https://learn-wave-frontend-git-main-vansh351.vercel.app/"],
 		credentials:true,
 	})
 )
