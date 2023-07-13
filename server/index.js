@@ -23,7 +23,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
 	cors({
-		origin:"https://learn-wave-frontend.vercel.app/",
+		origin:"https://learn-wave-frontend.vercel.app",
 		credentials:true,
 	})
 )
